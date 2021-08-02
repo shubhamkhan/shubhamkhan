@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhamkhan
-- 👀 I’m interested in Web Develpment and IoT
+- 👀 I’m interested in Full Stack Web Develpment and IoT Developer
 - 🌱 I’m currently learning Object Detection
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me: https://shubhamkhan.github.io/
