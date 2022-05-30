@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamkhan
-- 👀 I’m looking for Full Stack Web Developer
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m Full Stack Developer
+- 🌱 I’m currently learning AI\ML
 - 💪 I'm weak in JavaScript
 - 💞️ I’m interested in collaborate on development
 - 📫 How to reach me: [Website](https://shubhamkhan.github.io/) or [LinkedIn](https://www.linkedin.com/in/shubhamkhan/)
