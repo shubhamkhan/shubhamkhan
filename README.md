@@ -45,7 +45,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shubhamkhan_)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shubhamkhan#5617)
 
-📫 How to reach me: [Website](https://shubhamkhan.github.io/)
+📫 How to reach me: [Website](https://shubhamkhan.vercel.app/)
 
 <!---
 shubhamkhan/shubhamkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
